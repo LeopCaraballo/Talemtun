@@ -25,15 +25,9 @@ This is a project developed with Node.js and NestJS for the backend, and JavaScr
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
-3. Install the dependencies: `npm install`
-
-## Usage
-
-1. Start the backend server: `npm run start:backend`
-2. Start the frontend development server: `npm run start:frontend`
-3. Open your browser and navigate to `http://localhost:3000` to view the application.
+1. Clone the repository: `https://github.com/LeopCaraballo/Talemtun.git`
+2. Navigate to the project directory: `cd app`
+3. Install the dependencies: `npm install` on backend and frontend folders
 
 ## Contributing
 
