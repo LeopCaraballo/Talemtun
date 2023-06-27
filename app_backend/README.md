@@ -64,7 +64,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Leopoldo Caraballo]<a href="mailto:leopcaraballo@gmail.com/>📧 Correo Electrónico</a>
+- Author - [Leopoldo Caraballo]
+<a href="mailto:leopcaraballo@gmail.com">Correo Electrónico</a>
 
 
 ## License
